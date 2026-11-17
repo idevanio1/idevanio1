@@ -1,58 +1,79 @@
-# Idevânio R. B. de Sousa
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=101c2b&amp;height=150&amp;section=header&amp;text=Idev%C3%A2nio%20R.%20B.%20de%20Sousa&amp;fontSize=30&amp;fontColor=ffffff&amp;desc=Strategy%20%C2%B7%20Finance%20%C2%B7%20Technology&amp;descSize=16&amp;descAlignY=75" alt="Idevânio R. B. de Sousa — Strategy · Finance · Technology" />
 
-Administrador | Mestre em TI
+  <strong>Business &amp; Technology Leadership</strong>
 
----
+  Administrador · Especialista em Finanças · Mestre em TI
 
-## Pensando e criando soluções...
+  <img src="https://img.shields.io/badge/STRATEGY-101c2b?style=flat-square" alt="Strategy" />
+  <img src="https://img.shields.io/badge/GOVERNANCE-34495e?style=flat-square" alt="Governance" />
+  <img src="https://img.shields.io/badge/FINANCE-101c2b?style=flat-square" alt="Finance" />
+  <img src="https://img.shields.io/badge/INNOVATION-34495e?style=flat-square" alt="Innovation" />
 
-Trabalho há vinte e cinco anos com administração, finanças e dados, buscando transformar conhecimento em decisões que maximizem valor e eficiência.
-
-Meu interesse está especialmente direcionado à convergência entre tecnologia e gestão para a solução de problemas reais.
-
-Acredito que, com ousadia, integridade e cooperação, pode-se realizar grandes coisas.
-
-## Áreas de interesse
-
-- Gestão e estratégia de negócios
-- Finanças
-- Ciência de dados
-- Inteligência Artificial e automação
-- Inovação em processos
-- Ética, sociedade e fé
+  [Português](#português) · [English](#english)
+</div>
 
 ---
 
-*"There's no spoon..."* 🥄
+## Português
 
+### Pensando estrategicamente. Criando soluções.
 
+Há 25 anos atuo com administração, finanças e dados, buscando transformar conhecimento em decisões que promovam eficiência, inovação e geração sustentável de valor.
 
----
+Minha perspectiva combina racionalidade econômica, pensamento sistêmico e tecnologia para compreender problemas complexos, questionar premissas, identificar oportunidades e construir soluções aplicáveis ao mundo real.
 
+### Pilares estratégicos
 
-# Idevânio R. B. de Sousa
+| Estratégia & Governança | Finanças | Tecnologia |
+| :--- | :--- | :--- |
+| Estratégia Empresarial | Gestão Financeira | Inteligência Artificial |
+| Governança Corporativa | Alocação de Recursos | Ciência de Dados |
+| Gestão Data-driven | Eficiência  | Automação e Inovação |
 
-Business Administrator | MSc in IT
+### Perspectiva profissional
 
----
+Interesse em contribuir para a liderança estratégica de organizações conectando gestão, finanças e transformação tecnológica à tomada de decisão.
 
-## Thinking and creating solutions...
+### Princípios
 
-For twenty-five years, I have worked in business administration, finance, and data, seeking to turn knowledge into decisions that maximize value and efficiency.
+Pensamento independente, rigor analítico, integridade, ousadia e cooperação. Ética, sociedade e fé também integram minhas reflexões sobre o mundo e os negócios.
 
-My main interest lies in the convergence of technology and management to solve real-world problems.
-
-I believe that with boldness, integrity, and cooperation, great things can be achieved.
-
-## Areas of Interest
-
-- Business Management and Strategy
-- Finance
-- Data Science
-- Artificial Intelligence and Automation
-- Process Innovation
-- Ethics, Society, and Faith
+**A tecnologia é um instrumento. A geração de valor é o propósito.**
 
 ---
 
-*"There's no spoon..."* 🥄
+## English
+
+Business Administrator · Finance Specialist · MSc in IT
+
+### Thinking strategically. Creating solutions.
+
+For 25 years, I have worked in business administration, finance, and data, seeking to translate knowledge into decisions that drive efficiency, innovation, and sustainable value creation.
+
+My perspective combines economic reasoning, systems thinking, and technology to understand complex problems, challenge assumptions, identify opportunities, and develop real-world solutions.
+
+### Strategic pillars
+
+| Strategy & Governance | Finance | Technology |
+| :--- | :--- | :--- |
+| Business Strategy | Financial Management | Artificial Intelligence |
+| Corporate Governance | Resource allocation | Data Science |
+| Data-driven | Economic Efficiency | Automation and Innovation |
+
+### Professional outlook
+
+Interested in contributing to strategic leadership through C-level, corporate board, and advisory board opportunities, connecting business management, finance, and technological transformation with decision-making.
+
+### Principles
+
+Independent thinking, analytical rigor, integrity, boldness, and cooperation. Ethics, society, and faith also inform my reflections on business and the world.
+
+**Technology is a means. Value creation is the purpose.**
+
+---
+
+<div align="center">
+  <em>“There's no spoon...”</em> 🥄
+</div>
+
