@@ -27,13 +27,13 @@ Minha perspectiva combina racionalidade econômica, pensamento sistêmico e tecn
 
 | Estratégia & Governança | Finanças | Tecnologia |
 | :--- | :--- | :--- |
-| Estratégia empresarial | Gestão financeira | Inteligência artificial |
-| Governança corporativa | Alocação de recursos | Ciência de dados |
-| Gestão de riscos | Eficiência econômica | Automação e inovação |
+| Estratégia Empresarial | Gestão Financeira | Inteligência Artificial |
+| Governança  | Rentabilidade | Ciência de Dados |
+| Gestão Data-driven | Eficiência  | Automação e Inovação |
 
 ### Perspectiva profissional
 
-Interesse em contribuir para a liderança estratégica de organizações, incluindo funções C-level, conselhos de administração e conselhos consultivos, conectando gestão, finanças e transformação tecnológica à tomada de decisão.
+Interesse em contribuir para a liderança estratégica de organizações conectando gestão, finanças e transformação tecnológica à tomada de decisão.
 
 ### Princípios
 
@@ -57,9 +57,9 @@ My perspective combines economic reasoning, systems thinking, and technology to 
 
 | Strategy & Governance | Finance | Technology |
 | :--- | :--- | :--- |
-| Business strategy | Financial management | Artificial intelligence |
-| Corporate governance | Resource allocation | Data science |
-| Risk management | Economic efficiency | Automation and innovation |
+| Business Strategy | Financial Management | Artificial Intelligence |
+| Corporate Governance | ROI | Data Science |
+| Risk management | Economic Efficiency | Automation and Innovation |
 
 ### Professional outlook
 
