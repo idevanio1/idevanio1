@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=101c2b&amp;height=150&amp;section=header&amp;text=Idev%C3%A2nio%20R.%20B.%20de%20Sousa&amp;fontSize=30&amp;fontColor=ffffff&amp;desc=Strategy%20%C2%B7%20Finance%20%C2%B7%20Technology&amp;descSize=16&amp;descAlignY=75" alt="Idevânio R. B. de Sousa — Strategy · Finance · Technology" />
+  <img width="100%" src="./banner.png" alt="Idevânio R. B. de Sousa — Strategy · Finance · Technology" />
 
   <strong>Business &amp; Technology Leadership</strong>
 
@@ -27,13 +27,13 @@ Minha perspectiva combina racionalidade econômica, pensamento sistêmico e tecn
 
 | Estratégia & Governança | Finanças | Tecnologia |
 | :--- | :--- | :--- |
-| Estratégia Empresarial | Gestão Financeira | Inteligência Artificial |
-| Governança Corporativa | Alocação de Recursos | Ciência de Dados |
-| Gestão Data-driven | Eficiência  | Automação e Inovação |
+| Estratégia empresarial | Gestão financeira | Inteligência artificial |
+| Governança corporativa | Alocação de recursos | Ciência de dados |
+| Gestão de riscos | Eficiência econômica | Automação e inovação |
 
 ### Perspectiva profissional
 
-Interesse em contribuir para a liderança estratégica de organizações conectando gestão, finanças e transformação tecnológica à tomada de decisão.
+Interesse em contribuir para a liderança estratégica de organizações, incluindo funções C-level, conselhos de administração e conselhos consultivos, conectando gestão, finanças e transformação tecnológica à tomada de decisão.
 
 ### Princípios
 
@@ -57,9 +57,9 @@ My perspective combines economic reasoning, systems thinking, and technology to 
 
 | Strategy & Governance | Finance | Technology |
 | :--- | :--- | :--- |
-| Business Strategy | Financial Management | Artificial Intelligence |
-| Corporate Governance | Resource allocation | Data Science |
-| Data-driven | Economic Efficiency | Automation and Innovation |
+| Business strategy | Financial management | Artificial intelligence |
+| Corporate governance | Resource allocation | Data science |
+| Risk management | Economic efficiency | Automation and innovation |
 
 ### Professional outlook
 
@@ -76,4 +76,3 @@ Independent thinking, analytical rigor, integrity, boldness, and cooperation. Et
 <div align="center">
   <em>“There's no spoon...”</em> 🥄
 </div>
-
